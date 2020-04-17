@@ -1,0 +1,14 @@
+blender-2.79b-linux-glibc219-x86_64/
+cgal/
+collisionCheck/
+mesh/
+datageneration/__pycache__
+datageneration/resources/*
+datageneration/smpl_data/*
+datageneration/meshIsect/build
+datageneration/meshIsect/meshIsect_cython.cpp
+datageneration/meshIsect/findMeshIntersection.cpython-36m-x86_64-linux-gnu.so
+datageneration/tmpp34
+demo/__pycache__/
+.*
+!/.gitignore
